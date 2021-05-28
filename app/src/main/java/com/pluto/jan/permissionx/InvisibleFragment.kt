@@ -1,4 +1,4 @@
-package com.pluto.jan.library
+package com.pluto.jan.permissionx
 
 import android.content.pm.PackageManager
 import androidx.fragment.app.Fragment
